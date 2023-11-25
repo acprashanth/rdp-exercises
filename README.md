@@ -5,3 +5,6 @@
 3. Add your code solutions to the respective directories.
 4. You should push code to your fork.
 5. Make your fork public or add me as a collaborator.
+
+
+Sample commit with forking
